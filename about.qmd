@@ -1,0 +1,10 @@
+---
+title: "About Me"
+---
+
+Hello and welcome to my website! My name is **Oliver Hancock** and I currently am a student in the MS Applied Business Analytics program at Boston University (Metropolitan College). I'll be using this site to display my work.
+
+Current course: **MET AD 688 - Web Analytics for Business**
+
+Current Project: **Business Running Case: Evaluating Personal Job Market Prospects in 2024**
+*A Data-Driven Career Analysis Using Lightcast, GitHub, and Quarto Pages* 
