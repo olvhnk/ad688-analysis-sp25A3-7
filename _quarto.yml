@@ -1,6 +1,10 @@
 project:
   type: website
 
+ publish:
+  - id: gh-pages
+    server: github 
+
 website:
   title: "github"
   navbar:
